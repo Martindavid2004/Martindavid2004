@@ -1,83 +1,102 @@
-# Hi there, I'm Martin David M 👋
+<h1 align="center">
+  Hi there, I'm Martin David M <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyNe/giphy.gif" width="30px">
+</h1>
 
-### 🚀 AI/ML Engineer & Full-Stack Developer
+<p align="center">
+  <a href="https://github.com/Martindavid2004">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=AI%2FML+Engineer;Full-Stack+Developer;Data+Science+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
+  </a>
+</p>
 
-*B.Tech graduate in Artificial Intelligence and Data Science with hands-on experience in AI/ML and full-stack development[cite: 1]. Skilled in building scalable solutions and seeking an entry-level Software Developer / AI Engineer role[cite: 1].*
-
-📫 **Reach me at:** [martindavid790430@gmail.com](mailto:martindavid790430@gmail.com) | 📞 +91 7904309363[cite: 1]  
-📍 **Location:** Chennai, Tamil Nadu, India[cite: 1]
-
----
-
-## 🛠️ Skills & Technologies
-
-*   **Programming Languages:** `Python` | `Java`[cite: 1]
-*   **Web Technologies:** `HTML` | `CSS` | `JavaScript`[cite: 1]
-*   **Frameworks & Libraries:** `Node.js` | `Express.js` | `React.js` | `Spring Boot`[cite: 1]
-*   **Databases:** `MySQL` | `MongoDB` | `PostgreSQL`[cite: 1]
-*   **AI / Machine Learning:** `Machine Learning` | `LangChain` | `Vector Embeddings`[cite: 1]
-*   **Tools & Platforms:** `Git` | `AWS` | `VS Code` | `REST APIs`[cite: 1]
-*   **Core Competencies:** Team Collaboration | Communication | Leadership | Problem Solving | Time Management[cite: 1]
+<p align="center">
+  <a href="mailto:martindavid790430@gmail.com"><img src="https://img.shields.io/badge/Email-martindavid790430%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Location-Chennai%2C%20India-4CAF50?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
+</p>
 
 ---
 
-## 💼 Experience
+### 👨‍💻 About Me
 
-### AI/ML Engineer Intern - Core Team
-**Proeduvate (Startup)** | *Nov 2025 - Apr 2026*[cite: 1]
-* Contributed to AI/ML application development in an early-stage startup[cite: 1].
-* Designed and implemented ML solutions for real-world use cases[cite: 1].
-* Trained and mentored 10+ interns on AI/ML and project development[cite: 1].
-* Conducted technical interviews and evaluated internship candidates[cite: 1].
-* Led a team of 5 members, managing tasks and ensuring timely delivery[cite: 1].
-* Collaborated to integrate ML models into full-stack applications[cite: 1].
-
-### Junior Java FullStack Developer (Internship)
-**Tata Strive (TCS)** | *Jun 2025 - Nov 2025*[cite: 1]
-* Completed hands-on training covering Java, Spring Boot, REST API, MySQL, JDBC, Express.js, HTML, CSS, and React.js[cite: 1].
-* Gained practical experience in full-stack application development, backend integration, and database management[cite: 1].
+* 🎓 **Education:** B.Tech graduate in Artificial Intelligence and Data Science (Agni College of Technology, 2022-2026) with a CGPA of 8.35[cite: 1].
+* 💼 **Experience:** Core Team AI/ML Engineer Intern at Proeduvate and Junior Java FullStack Developer Intern at Tata Strive (TCS)[cite: 1].
+* 🚀 **Objective:** Seeking an entry-level Software Developer / AI Engineer role to build scalable solutions[cite: 1].
+* 🏆 **Achievements:** Coordinated technical symposiums and secured the Runner-up position in an inter-college basketball tournament[cite: 1].
 
 ---
 
-## 💻 Featured Projects
+### 🛠️ Tech Stack & Tools
 
-### 🎓 Learning Management System (LMS)
-*Dec 2025*[cite: 1]
-* Developed a full-stack, role-based LMS using **Flask, MongoDB Atlas, and Tailwind CSS**, with separate Admin, Teacher, Student, and HR workflows via REST APIs[cite: 1].
-* Integrated **Google Gemini API** to power AI features, including auto-generated MCQ quizzes, resume-to-job ATS analysis, and personalized mock interview question generation with answer evaluation[cite: 1].
-* Built backend services for secure PDF resume upload and text extraction (PyMuPDF), persisted performance in MongoDB, and added reliability safeguards like fallback quiz generation[cite: 1].
+**Languages**  
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
-### ⚡ Code AI
-*Jan 2026 - Feb 2026*[cite: 1]
-* Designed a full-stack competitive coding platform using **FastAPI, MongoDB, React, Vite, and Tailwind CSS**, integrating an in-browser Monaco editor for real-time coding[cite: 1].
-* Implemented secure authentication, progress tracking, problem persistence, code execution APIs, and leaderboard features[cite: 1].
-* Engineered multiplayer functionalities including matchmaking, lobbies, timed 1v1 contests, and gamified modes (Bug Hunt, Code Shuffle)[cite: 1].
+**Frontend & Backend**  
+<p>
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+</p>
 
-### 🔍 QueryLess - AI-Driven Search & Analytics
-*Mar 2026*[cite: 1]
-* Designed a web-based framework leveraging **GPT-5 with System 2 reasoning** to simplify clinical decision-making[cite: 1].
-* Integrated **LinkAlign** for medical ontology mapping (SNOMED-CT/ICD-10) and **MAC-SQL** for clinical logic decomposition[cite: 1].
-* Implemented a Differential Privacy (SmartNoise) layer for HIPAA compliance, achieving 81.05% SOTA reliability on MIMIC-IV and EHRSQL benchmarks[cite: 1].
+**AI & Databases**  
+<p>
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
 ---
 
-## 🎓 Education
+### 🚀 Featured Projects
 
-*   **B.Tech in Artificial Intelligence and Data Science** | Agni College of Technology (2022-2026) | *CGPA: 8.35*[cite: 1]
-*   **Higher Secondary (HSC)** | St. Joseph Higher Secondary School (2020-2022) | *Percentage: 83.6%*[cite: 1]
+<details>
+  <summary><b>🧠 Learning Management System (LMS)</b> <i>(Dec 2025)</i></summary>
+  <br>
+  <ul>
+    <li>Developed a full-stack, role-based LMS using Flask, MongoDB Atlas, and Tailwind CSS[cite: 1].</li>
+    <li>Integrated Google Gemini API to power AI features, including auto-generated MCQ quizzes, resume-to-job ATS analysis, and personalized mock interview generation[cite: 1].</li>
+    <li>Built backend services for secure PDF resume upload and text extraction (PyMuPDF)[cite: 1].</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>⚡ Code AI</b> <i>(Jan 2026 - Feb 2026)</i></summary>
+  <br>
+  <ul>
+    <li>Designed a full-stack competitive coding platform using FastAPI, MongoDB, React, Vite, and Tailwind CSS, integrating a Monaco editor for real-time coding[cite: 1].</li>
+    <li>Implemented secure authentication, progress tracking, problem persistence, and code execution APIs[cite: 1].</li>
+    <li>Engineered multiplayer functionalities including matchmaking, 1v1 contests, and gamified modes[cite: 1].</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>🔍 QueryLess - AI-Driven Search & Analytics</b> <i>(Mar 2026)</i></summary>
+  <br>
+  <ul>
+    <li>Designed a web-based framework leveraging GPT-5 with System 2 reasoning for clinical decision-making[cite: 1].</li>
+    <li>Integrated LinkAlign for medical ontology mapping and MAC-SQL for clinical logic decomposition[cite: 1].</li>
+    <li>Implemented a Differential Privacy (SmartNoise) layer for HIPAA compliance, achieving 81.05% SOTA reliability[cite: 1].</li>
+  </ul>
+</details>
 
 ---
 
-## 📜 Certifications & Achievements
+### 📊 GitHub Stats
 
-**Certifications:**
-1.  Python - CS50 Harvard University[cite: 1]
-2.  Data Structures in C - Skillrack[cite: 1]
-3.  Data Analytics - Udemy[cite: 1]
-4.  Generative AI for Advanced Analytics - Udemy[cite: 1]
-5.  Junior Java FullStack Developer - Tata Strive, TCS[cite: 1]
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Martindavid2004&show_icons=true&theme=radical" alt="Martin's GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Martindavid2004&theme=radical" alt="Martin's GitHub Streak" />
+</p>
 
-**Achievements:**
-*   Completed multiple AI/ML and full-stack development projects[cite: 1].
-*   Coordinated and organized technical symposium events[cite: 1].
-*   Secured Runner-up position in inter-college basketball tournament[cite: 1].
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" />
+</p>
